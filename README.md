@@ -16,7 +16,7 @@
 - 🌱 Currently learning **HTML**, **CSS** and **JavaScript**
 - 🛠️ My first projects are coming soon
 - 🔭 Next up: **Git & GitHub**, **TypeScript**, **Next.js** and **Tailwind CSS**
-- 📱 Long-term goal: build Android apps with **Kotlin** and **Jetpack Compose**
+- 📱 Long-term goal: web development 
 - 🤝 Happy to connect with other beginners and learn together
 
 ---
